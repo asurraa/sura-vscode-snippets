@@ -1,5 +1,4 @@
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/asurraa.sura-code-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=asurraa.sura-code-snippets)
- 
+ [![Version](https://vsmarketplacebadge.apphb.com/version-short/asurraa.sura-code-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=asurraa.sura-code-snippets)
 # Sura VScode Snippets
 
 **`aRC`**
