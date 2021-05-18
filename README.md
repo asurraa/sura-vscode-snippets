@@ -1,4 +1,5 @@
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/asurraa.sura-code-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=asurraa.sura-code-snippets)
+[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/pflannery.vscode-versionlens.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens&wt.mc_id=vscode-versionlens-gitlab)
+
 # Sura VScode Snippets
 
 **`aRC`**
