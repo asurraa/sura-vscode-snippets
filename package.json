@@ -17,7 +17,7 @@
     "url": "https://github.com/asurraa/sura-vscode-snippets"
   },
   "engines": {
-    "vscode": "^1.56.0"
+    "vscode": "1.56.0"
   },
   "categories": [
     "Snippets"
@@ -75,6 +75,7 @@
   "scripts": {
     "vscode:prepublish": "yarn run compile",
     "generate:package" : "vsce package --no-yarn",
+    "vscode:publish" : "vsce publish --no-yarn",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./"
   },
