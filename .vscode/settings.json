@@ -9,6 +9,7 @@
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "cSpell.words": [
-    "asurraa"
+    "asurraa",
+    "xvfb"
   ]
 }
