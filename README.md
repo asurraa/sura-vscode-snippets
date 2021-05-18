@@ -1,5 +1,4 @@
-(https://marketplace.visualstudio.com/items?itemName=asurraa.sura-code-snippets)
-(https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight)
+(https://vsmarketplacebadge.apphb.com/version-short/jgclark.vscode-todo-highlight.svg)](https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/jgclark.vscode-todo-highlight.svg)](https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/jgclark.vscode-todo-highlight.svg)](https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight)
 
 # Sura VScode Snippets
 
