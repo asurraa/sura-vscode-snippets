@@ -1,5 +1,4 @@
-(https://vsmarketplacebadge.apphb.com/version-short/jgclark.vscode-todo-highlight.svg)](https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight) 
-
+ [![Version](https://vsmarketplacebadge.apphb.com/version-short/jgclark.vscode-todo-highlight.svg)](https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight)
 # Sura VScode Snippets
 
 **`aRC`**
