@@ -1,2 +1,2 @@
 
-# sura-vscode-snippets
+# Sura-vscode-snippets
