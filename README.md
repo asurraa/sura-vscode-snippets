@@ -1,13 +1,25 @@
 # Sura VScode Snippets
 
-**`aIC`**
+**`aRC`**
 
 ```tsx
-import React from 'react'
+import { FC, Fragment } from 'react'
+
+export interface indexProps {}
+
+export const index: FC<indexProps> = (props) => {
+  return <Fragment></Fragment>
+}
 ```
 
-**`aIP`**
+**`aRP`**
 
 ```tsx
-import React from 'react'
+import { Fragment } from 'react'
+
+const index = () => {
+  return <Fragment></Fragment>
+}
+
+export default index
 ```
