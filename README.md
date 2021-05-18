@@ -1,4 +1,4 @@
- [![Version](https://vsmarketplacebadge.apphb.com/version-short/jgclark.vscode-todo-highlight.svg)](https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight)
+ [![Version](https://vsmarketplacebadge.apphb.com/version-short/asurraa.sura-code-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=jasurraa.sura-code-snippets)
 # Sura VScode Snippets
 
 **`aRC`**
