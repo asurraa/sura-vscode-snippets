@@ -1,4 +1,4 @@
-[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/asurraa.sura-vscode-snippets.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=asurraa.sura-vscode-snippets.svg)
+[![Badge for version for Visual Studio Code extension](https://vsmarketplacebadge.apphb.com/version-short/asurraa.sura-vscode-snippets.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=asurraa.sura-code-snippets)
 
 # Sura VScode Snippets
 
