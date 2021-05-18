@@ -8,8 +8,6 @@
   "keywords": [
     "asurraa",
     "react",
-    "redux",
-    "react-native",
     "javascript",
     "typescript"
   ],
@@ -19,7 +17,7 @@
     "url": "https://github.com/asurraa/sura-vscode-snippets"
   },
   "engines": {
-    "vscode": "^1.45.0"
+    "vscode": "^1.56.0"
   },
   "categories": [
     "Snippets"
@@ -76,6 +74,7 @@
   },
   "scripts": {
     "vscode:prepublish": "yarn run compile",
+    "generate:package" : "vsce package --no-yarn",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./"
   },

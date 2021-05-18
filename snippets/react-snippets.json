@@ -1,7 +1,8 @@
 {
     "import": {
-      "prefix": "aimp",
+      "prefix": "aIC",
       "body": "import ${2:moduleName} from '${1:module}'$0"
     }
+    
   }
   
