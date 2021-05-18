@@ -1,4 +1,5 @@
 (https://marketplace.visualstudio.com/items?itemName=asurraa.sura-code-snippets)
+(https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight)
 
 # Sura VScode Snippets
 
