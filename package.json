@@ -77,7 +77,8 @@
     "generate:package" : "vsce package --no-yarn",
     "vscode:publish" : "vsce publish --no-yarn",
     "compile": "tsc -p ./",
-    "watch": "tsc -watch -p ./"
+    "watch": "tsc -watch -p ./",
+    "deploy": "vsce publish --yarn"
   },
   "devDependencies": {
     "typescript": "4.2.4",
