@@ -25,3 +25,7 @@ const index = () => {
 
 export default index
 ```
+
+## Todo 
+- [ ] arrow function.
+- [ ] snip for asurraaTable bootstrap.
