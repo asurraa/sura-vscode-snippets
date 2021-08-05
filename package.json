@@ -2,7 +2,7 @@
   "name": "sura-code-snippets",
   "displayName": "Sura Code Snippets",
   "description": "Code Snippets use internally at @asurraa",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "asurraa",
   "icon": "images/logo.png",
   "keywords": [
@@ -74,8 +74,8 @@
   },
   "scripts": {
     "vscode:prepublish": "yarn run compile",
-    "generate:package" : "vsce package --no-yarn",
-    "vscode:publish" : "vsce publish --no-yarn",
+    "generate:package": "npx vsce package --no-yarn",
+    "vscode:publish": "npx vsce publish --no-yarn",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
     "deploy": "vsce publish --yarn"

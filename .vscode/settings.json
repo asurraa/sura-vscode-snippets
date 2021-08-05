@@ -8,8 +8,5 @@
   "typescript.tsc.autoDetect": "off",
   "prettier.semi": false,
   "prettier.singleQuote": true,
-  "cSpell.words": [
-    "asurraa",
-    "xvfb"
-  ]
+  "cSpell.words": ["antd", "asurraa", "xvfb"]
 }
