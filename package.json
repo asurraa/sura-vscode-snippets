@@ -30,6 +30,19 @@
   "activationEvents": [
     "onCommand:extension.snippetSearch"
   ],
+  "scripts": {
+    "vscode:prepublish": "yarn run compile",
+    "generate:package": "npx vsce package --no-yarn",
+    "vscode:publish": "npx vsce publish --no-yarn",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "deploy": "vsce publish --yarn"
+  },
+  "devDependencies": {
+    "typescript": "3.9.6",
+    "@types/vscode": "^1.45.0",
+    "@types/node": "^14.0.14"
+  },
   "contributes": {
     "commands": [
       {
@@ -71,18 +84,5 @@
         "path": "./snippets/ts-snippets.json"
       }
     ]
-  },
-  "scripts": {
-    "vscode:prepublish": "yarn run compile",
-    "generate:package": "npx vsce package --no-yarn",
-    "vscode:publish": "npx vsce publish --no-yarn",
-    "compile": "tsc -p ./",
-    "watch": "tsc -watch -p ./",
-    "deploy": "vsce publish --yarn"
-  },
-  "devDependencies": {
-    "typescript": "3.9.6",
-    "@types/vscode": "^1.45.0",
-    "@types/node": "^14.0.14"
   }
 }
